@@ -1,0 +1,11 @@
+PACKAGES
+1. express
+2. nodemon
+3. dotenv
+4. uuid
+5. socket.io
+6. cors
+7. bcrypt, bcryptjs
+8. jsonwebtoken
+9. mongoose
+10. joi
