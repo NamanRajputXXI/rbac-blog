@@ -9,3 +9,18 @@ PACKAGES
 8. jsonwebtoken
 9. mongoose
 10. joi
+
+MODELS
+1. User model for signup and login api
+
+CONTROLLERS
+1. signup and login controller 
+
+MIDDLEWARE
+1. for checking the authentication in the login api
+
+ROUTES
+1. signup and login routes
+
+
+
